@@ -1,0 +1,20 @@
+{
+  "name": "04-web-apis-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gms1980/Code_Quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gms1980/Code_Quiz/issues"
+  },
+  "homepage": "https://github.com/gms1980/Code_Quiz#readme"
+}
